@@ -28,12 +28,12 @@ portrait_url: assets/images/photos/whp.jpg
 education:
 - name: LIESMARS, Wuhan University
   logo: assets/images/badges/WHU.png
-  position: PhD. in Photogrammetry and Remote Sensing
+  position: Ph.D. in Photogrammetry and Remote Sensing
   date: Sep. 2023 - Now
 
 - name: LIESMARS, Wuhan University
   logo: assets/images/badges/WHU.png
-  position: M.S.(Trans. to PhD) in Photogrammetry and Remote Sensing
+  position: M.S.(Trans. to Ph.D.) in Photogrammetry and Remote Sensing
   date: Sep. 2020 - Jul. 2023
 
 - name: SGG, Wuhan University
@@ -42,7 +42,7 @@ education:
   date: Sep. 2016 - Jul. 2020
 
 awards:
-- name: National Scholarship for PhD (Top 3%, Rank 1st in LISMARS)
+- name: National Scholarship for Ph.D. (Top 3%, Rank 1st in LISMARS)
   date: 2023
 - name: Gold Medal of Smart City Technology Innovation Award (Rank 1st)
   date: 2023
