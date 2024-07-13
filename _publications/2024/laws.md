@@ -1,7 +1,7 @@
 ---
 title:          Look at the whole scene':' General point cloud place recognition by classification proxy
 date:           2024-07-10 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (IF: 12.7)"
 pub_date:       "2024"
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
