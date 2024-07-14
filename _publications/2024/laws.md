@@ -8,7 +8,7 @@ pub_date:       "2024"
 abstract: >-
   A simulated benchmark for 3D reconstruction, localization, depth completion, upsampling, and segmentation.
   
-cover:          assets/images/covers/evision3d.png
+cover:          assets/images/covers/laws.png
 authors:
   - Yue Xie*
   - Bing Wang*
