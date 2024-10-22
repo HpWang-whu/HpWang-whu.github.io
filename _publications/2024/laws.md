@@ -6,7 +6,7 @@ pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (IF: 12.7)"
 pub_date:       "2024"
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 abstract: >-
-  A simulated benchmark for 3D reconstruction, localization, depth completion, upsampling, and segmentation.
+  Treat point cloud retrival as a classification problem.
   
 cover:          assets/images/covers/laws.jpg
 authors:
