@@ -6,7 +6,7 @@ pub:            "arXiv"
 pub_date:       "2024"
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
 abstract: >-
-  VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image. The key idea is to sample multi-view consistent high-quality images for pre-trained single-view diffusion models.
+  VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image. The key idea is to sample multi-view consistent high-quality images from pre-trained single-view diffusion models.
   
 cover:          assets/images/covers/vistadream.gif
 authors:
