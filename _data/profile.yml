@@ -20,7 +20,6 @@ short_bio: >-
   I am currently a Ph.D. student at <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
   I also maintain a close collaboration with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> HKUST</a>. 
   Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain an open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
-  I was supported by the Fundamental Research Project for Young Professional from NSFC (国自然博士生基金).
   My research focuses on advanced 3D vision algorithms, encompassing 3D  reconstruction, 3D understanding, and 3D Large Language Models.
 
 show_portrait: true
@@ -43,7 +42,7 @@ education:
   date: Sep. 2016 - Jul. 2020
 
 awards:
-- name: Fundamental Research Project for Young Professional from NSFC
+- name: Fundamental Research Project for Young Professional from NSFC (国自然博士生基金)
   date: 2024
 - name: National Scholarship for Ph.D. (Top 3%, Rank 1st in LISMARS)
   date: 2023
