@@ -10,3 +10,9 @@ This is a GitHub Pages template for personal academic homepages. The template is
 
 Click [here](https://luost.me/academic-homepage/) to see the preview of the template.
 
+
+preview command:
+```
+bundle exec jekyll serve
+```
+
