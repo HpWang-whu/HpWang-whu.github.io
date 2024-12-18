@@ -8,7 +8,7 @@ pub_date:       "2024"
 abstract: >-
   VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image. The key idea is to sample multi-view consistent high-quality images from pre-trained single-view diffusion models.
   
-cover:          assets/images/covers/vistadream.gif
+cover_video:          assets/images/covers/vistadream.mp4
 authors:
   - Haiping Wang
   - Yuan Liu†
