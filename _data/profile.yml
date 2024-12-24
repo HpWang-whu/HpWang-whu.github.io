@@ -17,10 +17,58 @@ github: HpWang-whu
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am currently a Ph.D. student at <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
+  I am currently a second-year Ph.D. student at <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
   I also maintain a close collaboration with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> HKUST</a>. 
   Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain an open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
-  My research focuses on advanced 3D vision algorithms, encompassing 3D  reconstruction, 3D understanding, and 3D Large Language Models.
+  My research focuses on advanced 3D vision algorithms, encompassing:
+
+  <ul>
+  <li>
+    3D reconstruction
+    <ul>
+
+      <li>Point Cloud Registration(
+      <a href="https://github.com/HpWang-whu/YOHO">YOHO</a>, 
+      <a href="https://hpwang-whu.github.io/RoReg/">RoReg</a>,
+      <a href="https://github.com/WHU-USI3DV/SGHR">SGHR</a>
+      )</li>
+
+      <li>Multi-modality Registration (
+      <a href="https://github.com/WHU-USI3DV/MSReg">CC4D</a>, 
+      <a href="https://whu-usi3dv.github.io/FreeReg/">FreeReg</a>
+      )</li>
+
+      <li>(Text-to-) 3D/4D Generation (
+       <a href="https://vistadream-project-page.github.io/">VistaDream</a>
+      )</li>
+
+    </ul>
+  </li>
+
+  <li>
+    3D understanding
+    <ul>
+
+      <li>Open-Vocabulary Understanding (
+       <a href="https://pz0826.github.io/GAGS-Webpage/">GAGS</a>
+      )</li>
+
+      <li>General Point Cloud Representation </li>
+
+    </ul>
+  </li>
+
+  <li>
+    3D Large Language Model
+    <ul>
+
+      <li>Text-based</li>
+
+      <li>Embedding-based</li>
+
+    </ul>
+  </li>
+  </ul>
 
 show_portrait: true
 portrait_url: assets/images/photos/whp.jpg

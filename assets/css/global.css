@@ -55,6 +55,39 @@ img.lazy {
     font-size: 100%;
 }
 
+.badge-recon {
+    background-color: rgb(255, 255, 255);
+    color: rgb(141, 32, 32);
+    font-size: 120%;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 0px;
+    margin-right: 4px;
+    font-weight: 700;
+  }
+
+  .badge-understand {
+    background-color: rgb(255, 255, 255);
+    color: rgb(141, 32, 32);
+    font-size: 120%;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 0px;
+    margin-right: 4px;
+    font-weight: 700;
+  }
+
+  .badge-llm {
+    background-color: rgb(255, 255, 255);
+    color: rgb(141, 32, 32);
+    font-size: 120%;
+    text-align: center;
+    border-radius: 4px;
+    margin-left: 0px;
+    margin-right: 4px;
+    font-weight: 700;
+  }
+
 .email-text {
     font-family: Courier, monospace;
 }

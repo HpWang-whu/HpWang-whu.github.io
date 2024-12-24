@@ -16,3 +16,4 @@ preview command:
 bundle exec jekyll serve
 ```
 
+Page template: [here](https://github.com/luost26/academic-homepage)

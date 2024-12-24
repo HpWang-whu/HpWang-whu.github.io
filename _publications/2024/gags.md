@@ -3,6 +3,7 @@ title:          GAGS':' Granularity-Aware 3D Feature Distillation for Gaussian S
 date:           2024-10-21 00:01:00 +0800
 selected:       true
 pub:            "arXiv"
+pub_last:       ' <span class="badge-understand"> 3D Open-vocabulary Understanding </span> ' 
 pub_date:       "2024"
 abstract: >-
   GAGS learns a 3D Gaussian field associated with semantic features, which enables accurate open-vocabulary 3D visual grounding in the scene.
@@ -16,7 +17,7 @@ authors:
   - Zhen Dong†
   - Bisheng Yang
 links:
-  Paper: 
+  Paper: https://arxiv.org/abs/2412.13654
   Code: https://github.com/WHU-USI3DV/GAGS
   Project Page: https://pz0826.github.io/GAGS-Webpage/
 ---

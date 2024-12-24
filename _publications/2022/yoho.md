@@ -4,7 +4,7 @@ date:           2022-06-30 00:01:00 +0800
 selected:       true
 pub:            "ACM Multimedia (MM)"
 pub_date:       "2022"
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge-recon"> Point Cloud Pariwise Registration </span> '
 abstract: >-
   Endow local descriptors of point clouds with rotation equivariance based on the icosahedral group learning, achieving SoTA registration performances on the 3D(Lo)Match, ETH, and WHU-TLS datasets (2022).
   

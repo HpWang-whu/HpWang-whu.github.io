@@ -4,7 +4,7 @@ date:           2024-04-10 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Geoscience and Remote Sensing (T-GRS, IF:8.2)"
 pub_date:       "2024"
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge-recon"> Point Cloud Pariwise Registration </span> '
 abstract: >-
   A fast and robust SO(2)-equivariant point cloud descriptor designed for aligning point clouds confirming 4DoF rigid-transformation such as MLS and TLS data.
   

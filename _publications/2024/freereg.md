@@ -4,7 +4,7 @@ date:           2024-05-10 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2024"
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge-recon"> Image-to-PC Registration </span> '
 abstract: >-
   FreeReg extracts cross-modality features from pretrained diffusion models and monocular depth estimators for accurate zero-shot image-to-point cloud registration.
   

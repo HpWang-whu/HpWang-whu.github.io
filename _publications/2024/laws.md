@@ -4,7 +4,7 @@ date:           2024-07-10 00:01:00 +0800
 selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (IF: 12.7)"
 pub_date:       "2024"
-# pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge-recon"> Point Cloud Localization </span> '
 abstract: >-
   Treat point cloud retrival as a classification problem.
   
