@@ -4,7 +4,7 @@ date:           2024-10-11 00:01:00 +0800
 selected:       false
 pub:            "RA-L"
 pub_date:       "2024"
-pub_last:       ' <span class="badge-recon"> Image Registration </span> '
+pub_last:       "Image Registration"
 abstract: >-
   Improving image registration accuragy by encoding camera motion patterns.
   

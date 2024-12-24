@@ -4,7 +4,7 @@ date:           2024-06-10 00:01:00 +0800
 selected:       false
 pub:            "Information Fusion (IF: 18.6)"
 pub_date:       "2024"
-pub_last:       ' <span class="badge-recon"> Depth Completion </span> '
+pub_last:       "Depth Completion"
 abstract: >-
   Depth completion from sparse and non-uniform inputs.
   

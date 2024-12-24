@@ -4,7 +4,7 @@ date:           2022-07-09 00:01:00 +0800
 selected:       false
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (IF: 12.7)"
 pub_date:       "2022"
-pub_last:       ' <span class="badge-understand"> 3D Detection </span> ' 
+pub_last:       "3D Detection"
 abstract: >-
   A corner detection-based Lidar point cloud object detection module that can be plugged in to enhance the performance of any baseline.
   

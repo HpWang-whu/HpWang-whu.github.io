@@ -4,7 +4,7 @@ date:           2024-02-10 00:01:00 +0800
 selected:       false
 pub:            "ArXiv"
 pub_date:       "2024"
-pub_last:       ' <span class="badge-recon"> 3D Dataset </span> '
+pub_last:       "3D Dataset"
 abstract: >-
   A simulated benchmark for 3D reconstruction, localization, depth completion, upsampling, and segmentation.
   

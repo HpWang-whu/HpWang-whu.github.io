@@ -4,7 +4,7 @@ date:           2023-02-28 00:01:00 +0800
 selected:       true
 pub:            "The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) "
 pub_date:       "2023"
-pub_last:       ' <span class="badge-recon"> Point Cloud Multiview Registration </span> '
+pub_last:       "Point Cloud Multiview Registration"
 abstract: >-
   A simple and effective multiview point cloud registration method containing a sparse pose graph construction and a robust IRLS method, achieving SoTA registration performances on the 3D(Lo)Match, ScanNet, and ETH datasets (2023).
   
