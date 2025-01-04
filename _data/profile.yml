@@ -27,20 +27,20 @@ short_bio: >-
     3D reconstruction
     <ul>
 
-      <li>Point Cloud Registration(
-      <a href="https://github.com/HpWang-whu/YOHO">YOHO</a>, 
-      <a href="https://hpwang-whu.github.io/RoReg/">RoReg</a>,
-      <a href="https://github.com/WHU-USI3DV/SGHR">SGHR</a>
-      )</li>
+      <li>Point Cloud Registration[
+      <a href="https://github.com/HpWang-whu/YOHO">YOHO(ACMMM22) </a>, 
+      <a href="https://hpwang-whu.github.io/RoReg/">RoReg(IEEE TPAMI) </a>,
+      <a href="https://github.com/WHU-USI3DV/SGHR">SGHR(CVPR23) </a>
+      ]</li>
 
-      <li>Multi-modality Registration (
-      <a href="https://github.com/WHU-USI3DV/MSReg">CC4D</a>, 
-      <a href="https://whu-usi3dv.github.io/FreeReg/">FreeReg</a>
-      )</li>
+      <li>Multi-modality Registration [
+      <a href="https://github.com/WHU-USI3DV/MSReg">CC4D(IEEE TGRS) </a>, 
+      <a href="https://whu-usi3dv.github.io/FreeReg/">FreeReg(ICLR24)</a>
+      ]</li>
 
-      <li>(Text-to-) 3D/4D Generation (
-       <a href="https://vistadream-project-page.github.io/">VistaDream</a>
-      )</li>
+      <li>(Text-to-) 3D/4D Generation [
+       <a href="https://vistadream-project-page.github.io/">VistaDream(arxiv24) </a>
+      ]</li>
 
     </ul>
   </li>
@@ -49,9 +49,9 @@ short_bio: >-
     3D understanding
     <ul>
 
-      <li>Open-Vocabulary Understanding (
-       <a href="https://pz0826.github.io/GAGS-Webpage/">GAGS</a>
-      )</li>
+      <li>Open-Vocabulary Understanding [
+       <a href="https://pz0826.github.io/GAGS-Webpage/">GAGS(arxiv24) </a>
+      ]</li>
 
       <li>General Point Cloud Representation </li>
 
@@ -73,21 +73,36 @@ short_bio: >-
 show_portrait: true
 portrait_url: assets/images/photos/whp.jpg
 
-education:
-- name: LIESMARS, Wuhan University
-  logo: assets/images/badges/WHU.png
-  position: Ph.D. in Photogrammetry and Remote Sensing
-  date: Sep. 2023 - Now
+# education:
+# - name: LIESMARS, Wuhan University
+#   logo: assets/images/badges/WHU.png
+#   position: Ph.D. in Photogrammetry and Remote Sensing
+#   date: Sep. 2023 - Now
 
-- name: LIESMARS, Wuhan University
-  logo: assets/images/badges/WHU.png
-  position: M.S.(Trans. to Ph.D.) in Photogrammetry and Remote Sensing
-  date: Sep. 2020 - Jul. 2023
+# - name: LIESMARS, Wuhan University
+#   logo: assets/images/badges/WHU.png
+#   position: M.S.(Trans. to Ph.D.) in Photogrammetry and Remote Sensing
+#   date: Sep. 2020 - Jul. 2023
 
-- name: SGG, Wuhan University
-  logo: assets/images/badges/WHU.png
-  position: B.S. in Photogrammetry and Remote Sensing (Rank 2/291)
-  date: Sep. 2016 - Jul. 2020
+# - name: SGG, Wuhan University
+#   logo: assets/images/badges/WHU.png
+#   position: B.S. in Photogrammetry and Remote Sensing (Rank 2/291)
+#   date: Sep. 2016 - Jul. 2020
+
+news:
+- date: [2024/12]
+  intr: Open-source GAGS that enables accurate open-vocabulary segmentation in a Gaussian scene. 
+- date: [2024/10]
+  intr: Open-source VistaDream for Fast Image-to-3D Scene on 4090(24G). 
+- date: [2024/04]
+  intr: CC4D has been accepted by TGRS.
+- date: [2024/01]
+  intr: FreeReg has been accepted by ICLR2024.
+- date: [2023/02]
+  intr: SGHR has been accepted by CVPR2023.
+- date: [2023/02]
+  intr: RoReg has been accepted by TPAMI.
+
 
 awards:
 - name: Fundamental Project for PhD student from NSFC (国自然博士基金)
