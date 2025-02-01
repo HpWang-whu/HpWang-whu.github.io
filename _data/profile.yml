@@ -27,19 +27,19 @@ short_bio: >-
     3D reconstruction
     <ul>
 
-      <li>Point Cloud Registration[
-      <a href="https://github.com/HpWang-whu/YOHO">YOHO(ACMMM22) </a>, 
-      <a href="https://hpwang-whu.github.io/RoReg/">RoReg(IEEE TPAMI) </a>,
-      <a href="https://github.com/WHU-USI3DV/SGHR">SGHR(CVPR23) </a>
+      <li>Point Cloud Registration [
+      <a href="https://github.com/HpWang-whu/YOHO">YOHO(ACMMM22)</a> , 
+      <a href="https://hpwang-whu.github.io/RoReg/">RoReg(IEEE TPAMI)</a> , 
+      <a href="https://github.com/WHU-USI3DV/SGHR">SGHR(CVPR23)</a>
       ]</li>
 
       <li>Multi-modality Registration [
-      <a href="https://github.com/WHU-USI3DV/MSReg">CC4D(IEEE TGRS) </a>, 
+      <a href="https://github.com/WHU-USI3DV/MSReg">CC4D(IEEE TGRS)</a> , 
       <a href="https://whu-usi3dv.github.io/FreeReg/">FreeReg(ICLR24)</a>
       ]</li>
 
       <li>(Text-to-) 3D/4D Generation [
-       <a href="https://vistadream-project-page.github.io/">VistaDream(arxiv24) </a>
+       <a href="https://vistadream-project-page.github.io/">VistaDream(arxiv24)</a>
       ]</li>
 
     </ul>
@@ -50,7 +50,7 @@ short_bio: >-
     <ul>
 
       <li>Open-Vocabulary Understanding [
-       <a href="https://pz0826.github.io/GAGS-Webpage/">GAGS(arxiv24) </a>
+       <a href="https://pz0826.github.io/GAGS-Webpage/">GAGS(arxiv24)</a>
       ]</li>
 
       <li>General Point Cloud Representation </li>
@@ -64,7 +64,9 @@ short_bio: >-
 
       <li>Text-based</li>
 
-      <li>Embedding-based</li>
+      <li>Embedding-based[
+      <a href="https://github.com/WHU-USI3DV/CityAnchor">CityAnchor(ICLR25)</a>
+      ]</li>
 
     </ul>
   </li>
@@ -90,6 +92,8 @@ portrait_url: assets/images/photos/whp.jpg
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2025/01]
+  intr: CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR2025. 
 - date: [2024/12]
   intr: Open-source GAGS that enables accurate open-vocabulary segmentation in a Gaussian scene. 
 - date: [2024/10]
