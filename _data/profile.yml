@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Haiping Wang"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/WHU.png" alt="Wuhan University" class="inline-badge"/></span> Ph.D. Wuhan University (2023-Now)'
+  - '<span class="no-break"><img src="assets/images/badges/WHU.png" alt="Wuhan University" class="inline-badge"/></span> Ph.D. Candidate @Wuhan University (2023-Now)'
 
 email: "hpwang@whu.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -17,7 +17,7 @@ github: HpWang-whu
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am currently a second-year Ph.D. student at <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
+  I am currently a Ph.D. candidate at <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>. 
   I also maintain a close collaboration with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> HKUST</a>. 
   Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain an open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
   My research focuses on advanced 3D vision algorithms, encompassing 3D Reconstruction, 3D Understanding, and 3D Intelligent System as follows.
