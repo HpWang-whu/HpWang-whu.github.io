@@ -20,7 +20,7 @@ authors:
   - Wenping Wang
   - Bisheng Yang†
 links:
-  Paper: https://doi.org/10.1109/TPAMI.2023.3244951
+  Paper: https://ieeexplore.ieee.org/document/10044259
   Code: https://github.com/HpWang-whu/RoReg
-  Project Page: https://hpwang-whu.github.io/RoReg/
+  Project Page: https://hpwang-whu.github.io/RoReg
 ---
