@@ -43,10 +43,12 @@ portrait_url: assets/images/photos/whp.png
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2025/05]
+  intr: Preprint SpatialLLM for zero-shot urban intelligence. 
 - date: [2025/01]
   intr: CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR2025. 
 - date: [2024/12]
-  intr: Open-source GAGS that enables accurate open-vocabulary segmentation in a Gaussian scene. 
+  intr: Open-source GAGS for open-vocabulary segmentation in GS. 
 - date: [2024/10]
   intr: Open-source VistaDream for Fast Image-to-3D Scene on 4090(24G). 
 - date: [2024/04]

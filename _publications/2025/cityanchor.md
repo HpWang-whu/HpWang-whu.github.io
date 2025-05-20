@@ -22,6 +22,6 @@ authors:
   - Zhen Dong
   - Bisheng Yang†
 links:
-  Paper: 
+  Paper: https://iclr.cc/virtual/2025/poster/30802
   Code: https://github.com/WHU-USI3DV/CityAnchor
 ---
