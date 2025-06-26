@@ -1,9 +1,9 @@
 ---
 title:          VistaDream':' Sampling multiview consistent images for single-view scene reconstruction
-date:           2024-10-23 00:01:00 +0800
+date:           2025-06-26 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
-pub_date:       "2024"
+pub:            "International Conference on Computer Vision (ICCV)"
+pub_date:       "2025"
 pub_last:       "Text/Image-to-3D Scene Generation"
 abstract: >-
   VistaDream is a training-free framework to reconstruct a high-quality 3D scene from a single-view image. The key idea is to sample multi-view consistent high-quality images from pre-trained single-view diffusion models.
