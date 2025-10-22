@@ -8,7 +8,7 @@ pub_last:       "Spatial Intelligence System"
 abstract: >-
   We outline Neural City to enable end-to-end urban governance, seamlessly linking raw urban data to holistic urban governance, achieving "6W+4R" governance.
   
-cover_video:          assets/images/covers/neuralcity.png
+cover:          assets/images/covers/neuralcity.png
 authors:
   - Zhen Dong (Supervisor)
   - Haiping Wang*
