@@ -43,14 +43,14 @@ portrait_url: assets/images/photos/whp.png
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2025/10]
+  intr: Neural City, outlining spatial intelligence for urban governance, is accepted by The Innovation. 
 - date: [2025/06]
   intr: VistaDream, training-free 3D scene generation, is accepted by ICCV2025. 
 - date: [2025/05]
   intr: Preprint SpatialLLM for zero-shot urban intelligence. 
 - date: [2025/01]
   intr: CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR2025. 
-- date: [2024/12]
-  intr: Open-source GAGS for open-vocabulary segmentation in GS. 
 - date: [2024/04]
   intr: CC4D has been accepted by TGRS.
 - date: [2024/01]
