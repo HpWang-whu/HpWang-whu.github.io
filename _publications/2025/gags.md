@@ -1,10 +1,10 @@
 ---
 title:          GAGS':' Granularity-Aware 3D Feature Distillation for Gaussian Splatting
-date:           2024-10-21 00:01:00 +0800
+date:           2025-11-08 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
+pub:            "AAAI"
 pub_last:       "3D Open-vocabulary Understanding"
-pub_date:       "2024"
+pub_date:       "2026"
 abstract: >-
   GAGS learns a 3D Gaussian field associated with semantic features, which enables accurate open-vocabulary 3D visual grounding in the scene.
   
