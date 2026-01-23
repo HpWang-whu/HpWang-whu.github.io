@@ -42,6 +42,8 @@ portrait_url: assets/images/photos/whp.png
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2026/01]
+  intr: RegScorer, learning to score transformations, is accepted by ISPRS J. 
 - date: [2025/11]
   intr: GAGS, 3D Open-vocabulary Understanding, is accepted by AAAI2026. 
 - date: [2025/10]
@@ -56,8 +58,8 @@ news:
   intr: FreeReg has been accepted by ICLR2024.
 - date: [2023/02]
   intr: SGHR has been accepted by CVPR2023.
-- date: [2023/02]
-  intr: RoReg has been accepted by TPAMI.
+# - date: [2023/02]
+#   intr: RoReg has been accepted by TPAMI.
 
 
 awards:

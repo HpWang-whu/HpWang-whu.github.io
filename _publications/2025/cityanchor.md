@@ -10,7 +10,7 @@ abstract: >-
   
 cover:          assets/images/covers/cityanchor.png
 authors:
-  - Jinpeng Li
+  - Jinpeng Li*
   - Haiping Wang*
   - Jiabin Chen
   - Yuan Liu†

@@ -10,7 +10,7 @@ abstract: >-
   
 cover:          assets/images/covers/spatialLLM.png
 authors:
-  - Jiabin Chen
+  - Jiabin Chen*
   - Haiping Wang*
   - Jinpeng Li
   - Yuan Liu†
