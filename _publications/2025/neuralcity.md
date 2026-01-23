@@ -10,7 +10,7 @@ abstract: >-
   
 cover:          assets/images/covers/neuralcity.png
 authors:
-  - Zhen Dong (Supervisor)*
+  - Zhen Dong*
   - Haiping Wang*
   - Zhe Chen
   - Chen Long
