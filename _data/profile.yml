@@ -42,6 +42,8 @@ portrait_url: assets/images/photos/whp.png
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2026/02]
+  intr: SpatialLLM for zero-shot urban intelligence is accepted by JAG. 
 - date: [2026/01]
   intr: SCoT, million-scale CoT dataset for 3D-LLM, is accepted by ICLR2026. 
 - date: [2026/01]
@@ -54,8 +56,8 @@ news:
   intr: VistaDream, training-free 3D scene generation, is accepted by ICCV2025. 
 - date: [2025/01]
   intr: CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR2025. 
-- date: [2024/04]
-  intr: CC4D has been accepted by TGRS.
+# - date: [2024/04]
+#   intr: CC4D has been accepted by TGRS.
 - date: [2024/01]
   intr: FreeReg has been accepted by ICLR2024.
 # - date: [2023/02]

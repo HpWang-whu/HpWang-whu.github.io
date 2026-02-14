@@ -1,9 +1,9 @@
 ---
 title:          SpatialLLM':' From Multi-modality Data to Urban Spatial Intelligence
-date:           2025-05-10 00:01:00 +0800
+date:           2026-02-14 00:01:00 +0800
 selected:       true
-pub:            "arXiv"
-pub_date:       "2025"
+pub:            "JAG（IF:8.6）"
+pub_date:       "2026"
 pub_last:       "3D-Large Language Model"
 abstract: >-
   Structured descriptions of raw spatial data equip LLM with zero-shot execution of advanced spatial intelligence tasks, including urban planning, ecological analysis, traffic management, etc.. Multi-field knowledge, context length, and reasoning ability are key factors influencing LLM performances in urban analysis.
