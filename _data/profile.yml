@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Haiping Wang"
 
 positions:
-  - '<span class="no-break"><img src="assets/images/badges/WHU.png" alt="Wuhan University" class="inline-badge"/></span> Ph.D. Candidate @Wuhan University (2023-Now)'
+  - '<span class="no-break"><img src="assets/images/badges/HKUST.png" alt="The Hong Kong University of Science and Technology" class="inline-badge"/></span> Research Assistant Professor @ HKUST (2026-Now)'
 
 email: "hpwang@whu.edu.cn"
 # cv_link: link-to-your-cv-file
@@ -17,9 +17,11 @@ github: HpWang-whu
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am currently a Ph.D. candidate at <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a>, <a href="https://en.whu.edu.cn/">Wuhan University</a>, under the supervision of Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a>, Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>, and Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> from <a href="https://hkust.edu.hk/"> HKUST</a>. 
-  Additionally, I am an active member of <a href="https://anysyn3d.github.io/about.html">AnySync3D</a> and maintain an open-source platform <a href="https://github.com/WHU-USI3DV">WHU-USI3DV</a> for point cloud processing benchmarks and algorithms.
-  My research focuses on advanced 3D vision algorithms, encompassing 3D Reconstruction, 3D Understanding, and 3D Intelligent System as follows. <br><br>
+  I am an incoming Research Assistant Professor at <a href="https://isd.hkust.edu.hk/">ISD</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>,
+  closely working with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> and Prof. <a href="https://saikit.org/">Sai-Kit Yeung</a>. 
+  I received my Ph.D. degree from <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a> of <a href="https://en.whu.edu.cn/">Wuhan University</a>, 
+  supervised by Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>.
+  My research focuses on advanced 3D vision algorithms, including 3D reconstruction, 3D understanding, and 3D intelligent systems. <br><br>
   <span><img src="assets/images/photos/pipeline.jpeg" alt="Pipeline" width=130% /></span>
 
 show_portrait: true
@@ -42,6 +44,8 @@ portrait_url: assets/images/photos/whp.png
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2026/06]
+  intr: LEGO, 3D Open-vocabulary Understanding, is accepted by ECCV2026. 
 - date: [2026/02]
   intr: SpatialLLM for zero-shot urban intelligence is accepted by JAG. 
 - date: [2026/01]
@@ -58,8 +62,8 @@ news:
   intr: CityAnchor, 3D-LLM for city-scale grounding, is accepted by ICLR2025. 
 # - date: [2024/04]
 #   intr: CC4D has been accepted by TGRS.
-- date: [2024/01]
-  intr: FreeReg has been accepted by ICLR2024.
+# - date: [2024/01]
+#   intr: FreeReg has been accepted by ICLR2024.
 # - date: [2023/02]
 #   intr: SGHR has been accepted by CVPR2023.
 # - date: [2023/02]
@@ -69,6 +73,8 @@ news:
 awards:
 - name: Fundamental Project for PhD student from NSFC (¥300K)
   date: 2024
+- name: Outstanding Poster of ChinaSI (Top 8)
+  date: 2025
 - name: National Scholarship for Ph.D. (Top 3%, Rank 1st in LISMARS)
   date: 2023
 - name: Gold Medal of Smart City Technology Innovation Award (Rank 1st)
@@ -76,9 +82,9 @@ awards:
 - name: Outstanding Student Scholarship (Top 1%)
   date: 2020
 - name: Outstanding Graduate of Wuhan University (Top 5%)
-  date: 2020
-- name: Dao-Yu Liu Innovation & Learning Scholarship - First Class (Top 5%)
-  date: 2019
+  date: 2020 & 2026
+# - name: Dao-Yu Liu Innovation & Learning Scholarship - First Class (Top 5%)
+#   date: 2019
 - name: The Best Paper Award at the National Lidar Conference (Top 10)
   date: 2018
 - name: National Scholarship for Postgraduates (Top 3%)
