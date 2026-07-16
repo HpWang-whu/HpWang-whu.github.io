@@ -84,9 +84,21 @@ img.lazy {
 }
 
 @media (max-width: 767.98px) {
+    .profile-info-column {
+        flex-basis: 100%;
+        order: 2;
+    }
+
+    .text-profile-bio {
+        text-align: justify;
+        text-justify: inter-word;
+    }
+
     .profile-portrait-column {
+        flex-basis: 100%;
+        order: 1;
         text-align: center;
-        margin-top: 1rem;
+        margin: 0 0 1rem;
     }
 
     .profile-portrait-figure {
@@ -97,6 +109,16 @@ img.lazy {
         height: auto;
         max-height: 180px;
         max-width: 100%;
+    }
+
+    .research-teaser,
+    .profile-awards-section {
+        display: none;
+    }
+
+    .publication-mobile-card {
+        background: #fff;
+        overflow: visible;
     }
 }
 
