@@ -33,6 +33,11 @@
                     {% endif %}
         
                 </div>
+                {% if site.data.profile.teaser_image %}
+                <div class="research-teaser">
+                    <img src="{{ site.data.profile.teaser_image }}" alt="Overview of my research directions" />
+                </div>
+                {% endif %}
                 <hr />
                 <div class="row">
                     <div class="col">

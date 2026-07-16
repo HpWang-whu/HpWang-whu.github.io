@@ -67,9 +67,9 @@ img.lazy {
 
 .research-teaser {
     display: block;
-    width: calc(100% + 230px);
-    max-width: none;
-    margin: 0 auto;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem auto 0;
 }
 
 .research-teaser img {
@@ -84,11 +84,6 @@ img.lazy {
 }
 
 @media (max-width: 767.98px) {
-    .research-teaser {
-        width: 100%;
-        max-width: 100%;
-    }
-
     .profile-portrait-column {
         text-align: center;
         margin-top: 1rem;
