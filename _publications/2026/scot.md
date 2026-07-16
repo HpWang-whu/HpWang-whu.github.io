@@ -2,6 +2,7 @@
 title:          SCoT':' Teaching 3D-LLMs to Think Spatially with Million-scale CoT Annotations
 date:           2026-01-26 00:01:00 +0800
 selected:       true
+category:       agent
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2026"
 pub_last:       "3D-Large Language Model"

@@ -2,6 +2,7 @@
 title:          LEGO':' Leveled Language Gaussian Splatting
 date:           2026-06-18 00:01:00 +0800
 selected:       true
+category:       understanding
 pub:            "European Conference on Computer Vision (ECCV)"
 pub_date:       "2026"
 pub_last:       "3D Level-wise Open-vocabulary Understanding"

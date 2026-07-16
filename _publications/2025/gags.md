@@ -2,7 +2,8 @@
 title:          GAGS':' Granularity-Aware 3D Feature Distillation for Gaussian Splatting
 date:           2025-11-08 00:01:00 +0800
 selected:       true
-pub:            "AAAI"
+category:       understanding
+pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 pub_last:       "3D Open-vocabulary Understanding"
 pub_date:       "2026"
 abstract: >-

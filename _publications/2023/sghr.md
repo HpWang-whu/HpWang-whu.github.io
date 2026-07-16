@@ -2,6 +2,7 @@
 title:          Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting
 date:           2023-02-28 00:01:00 +0800
 selected:       true
+category:       reconstruction
 pub:            "The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) "
 pub_date:       "2023"
 pub_last:       "Point Cloud Multiview Registration"

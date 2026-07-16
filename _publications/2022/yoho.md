@@ -2,6 +2,7 @@
 title:          You Only Hypothesize Once':' Point Cloud Registration with Rotation-equivariant Descriptors
 date:           2022-06-30 00:01:00 +0800
 selected:       true
+category:       reconstruction
 pub:            "ACM Multimedia (MM)"
 pub_date:       "2022"
 pub_last:       "Point Cloud Pariwise Registration"

@@ -2,6 +2,7 @@
 title:          FreeReg':' Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators
 date:           2024-05-10 00:01:00 +0800
 selected:       true
+category:       reconstruction
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2024"
 pub_last:       "Image-to-Point Cloud Registration"

@@ -2,6 +2,7 @@
 title:          RegScorer ":" Learning to Select the Best Transformation of Point Cloud Registration
 date:           2026-01-23 00:01:00 +0800
 selected:       true
+category:       reconstruction
 pub:            "ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS J, IF:12.2)"
 pub_date:       "2026"
 pub_last:       "PC Pariwise Registration"

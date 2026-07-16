@@ -2,6 +2,7 @@
 title:          VistaDream':' Sampling multiview consistent images for single-view scene reconstruction
 date:           2025-06-26 00:01:00 +0800
 selected:       true
+category:       reconstruction
 pub:            "International Conference on Computer Vision (ICCV)"
 pub_date:       "2025"
 pub_last:       "Text/Image-to-3D Scene Generation"

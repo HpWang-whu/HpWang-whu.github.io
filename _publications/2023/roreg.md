@@ -2,9 +2,10 @@
 title:          RoReg':' Pairwise Point Cloud Registration with Oriented Descriptors and Local Rotations
 date:           2023-02-05 00:01:00 +0800
 selected:       true
-pub:            "IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI, IF:24.3)"
+category:       reconstruction
+pub:            "[🏆 ESI Highly Cited Paper] IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI, IF:24.3)"
 pub_date:       "2023"
-pub_last:       "Point Cloud Pariwise Registration [ESI Highly Cited Paper]"
+pub_last:       "Point Cloud Pariwise Registration "
 abstract: >-
   Group-based rotation-equivariance can benefit each components of point cloud registration, including feature extraction, feature detection, feature matching, and transformation estimation. RoReg achieves SoTA registration performances on the 3D(Lo)Match and ETH datasets (2023).
   

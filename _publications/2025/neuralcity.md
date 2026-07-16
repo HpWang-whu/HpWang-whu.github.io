@@ -2,6 +2,7 @@
 title:          The Neural City':' A Next-generation Spatio-Temporal Intelligence Paradigm for Urban Holistic Governance
 date:           2025-10-22 00:01:00 +0800
 selected:       true
+category:       agent
 pub:            "The Innovation (IF: 25.7)"
 pub_date:       "2025"
 pub_last:       "Spatial Intelligence System"

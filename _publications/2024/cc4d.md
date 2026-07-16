@@ -2,6 +2,7 @@
 title:          A novel method for registration of MLS and stereo reconstructed point clouds
 date:           2024-04-10 00:01:00 +0800
 selected:       true
+category:       reconstruction
 pub:            "IEEE Transactions on Geoscience and Remote Sensing (T-GRS, IF:8.2)"
 pub_date:       "2024"
 pub_last:       "Point Cloud Pariwise Registration"

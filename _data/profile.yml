@@ -21,15 +21,15 @@ short_bio: >-
   closely working with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> and Prof. <a href="https://saikit.org/">Sai-Kit Yeung</a>. 
   Before that, I received my Ph.D. degree from <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a> of <a href="https://en.whu.edu.cn/">Wuhan University</a>, 
   supervised by Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>.
-  My research focuses on advanced 3D vision algorithms, including 3D reconstruction, 3D understanding, and 3D intelligent systems. <br><br>
-  <span><img src="assets/images/photos/pipeline.jpeg" alt="Pipeline" width=130% /></span>
+  My research focuses on advanced 3D vision algorithms, including 3D reconstruction, 3D understanding, and Spatial Agent Systems. <br><br>
+  <span class="research-teaser"><img src="assets/images/photos/pipeline.jpeg" alt="Overview of my research directions" /></span>
 
 show_portrait: true
 portrait_url: assets/images/photos/whp.png
 
 # education:
 # - name: LIESMARS, Wuhan University
-#   logo: assets/images/badges/WHU.png
+#   logo: assets/images/badges/WHU.png  
 #   position: Ph.D. in Photogrammetry and Remote Sensing
 #   date: Sep. 2023 - Now
 
