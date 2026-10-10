@@ -18,7 +18,7 @@ github: HpWang-whu
 
 short_bio: >-
   I am a Research Assistant Professor at <a href="https://isd.hkust.edu.hk/">ISD</a> of <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a>,
-  closely working with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a> and Prof. <a href="https://saikit.org/">Sai-Kit Yeung</a>. 
+  closely working with Assistant Prof. <a href="https://liuyuan-pal.github.io/">Yuan Liu</a>. 
   Before that, I received my Ph.D. degree from <a href="http://www.lmars.whu.edu.cn/en/">LIESMARS</a> of <a href="https://en.whu.edu.cn/">Wuhan University</a>, 
   supervised by Prof. <a href="https://dongzhenwhu.github.io/index.html">Zhen Dong</a> and Prof. <a href="http://3s.whu.edu.cn/ybs/index.htm">Bisheng Yang</a>.
   My research focuses on advanced 3D vision algorithms, including 3D reconstruction, 3D understanding, and Spatial Agent Systems.
@@ -26,7 +26,7 @@ short_bio: >-
 teaser_image: assets/images/photos/pipeline.jpeg
 
 show_portrait: true
-portrait_url: assets/images/photos/whp.png
+portrait_url: assets/images/photos/portrait.png
 
 # education:
 # - name: LIESMARS, Wuhan University
@@ -45,6 +45,8 @@ portrait_url: assets/images/photos/whp.png
 #   date: Sep. 2016 - Jul. 2020
 
 news:
+- date: [2026/10]
+  intr: VistaDreamer for 3D scene generation is accepted by TPAMI. 
 - date: [2026/06]
   intr: LEGO, 3D Open-vocabulary Understanding, is accepted by ECCV2026. 
 - date: [2026/02]
@@ -72,10 +74,12 @@ news:
 
 
 awards:
-- name: Fundamental Project for PhD student from NSFC (¥300K)
-  date: 2024
+- name: Outstanding Doctoral Dissertation Nomination Award, ACM SIGSPATIAL China
+  date: 2026
 - name: Outstanding Poster of ChinaSI (Top 8)
   date: 2025
+- name: Fundamental Project for PhD student from NSFC
+  date: 2024
 - name: National Scholarship for Ph.D. (Top 3%, Rank 1st in LISMARS)
   date: 2023
 - name: Gold Medal of Smart City Technology Innovation Award (Rank 1st)

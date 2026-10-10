@@ -1,6 +1,6 @@
 ---
 title:          LifePlanner':' valuating LLM Agents for Geo-spatial Planning with Social Media Data
-date:           2026-08-26 00:01:00 +0800
+date:           2026-10-09 00:01:00 +0800
 selected:       true
 category:       agent
 pub:            "arXiv"
