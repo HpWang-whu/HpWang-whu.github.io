@@ -20,6 +20,6 @@ authors:
   - Zhen Dong†
   - Bisheng Yang
 links:
-  Paper: 
-  Code: https://github.com/WHU-USI3DV/VistaDream
+  Paper: https://doi.org/10.1109/TPAMI.2026.3743020
+  Code: https://github.com/WHU-USI3DV/VistaDream/tree/moge3-lbd
 ---
