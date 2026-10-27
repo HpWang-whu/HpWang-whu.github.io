@@ -18,7 +18,7 @@ authors:
   - Zhen Dong
   - Bisheng Yang
 links:
-  Paper: 
+  Paper: https://arxiv.org/abs/2608.10057
   Code: https://github.com/WHU-USI3DV/LEGO
   Project Page: https://pz0826.github.io/LEGO-Webpage/
 ---
